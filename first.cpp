@@ -1,9 +1,15 @@
 //Kevin Buffardi
+/*
+ *
+ */
 #include <iostream>
+
+using std::cout;
+using std::endl;
 
 int main()
 {
-  std::cout<<"Hi."<<std::endl;
+    cout<<"Hi."<<endl;
 
   return 0;
 }
